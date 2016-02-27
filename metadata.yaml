@@ -1,0 +1,31 @@
+_repo: La-Tulipe-Noire_1910
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas père, Alexandre
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: "Abridged edition\r\nSee Also:  #965, Full-length English Edition\r\n\
+  See Also:  #26504, Latin-1, UTF-8, and HTML Edition"
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1910'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Witt, Johan de, 1625-1672 -- Fiction'
+- !lcsh 'Tulip Mania, 1634-1637 -- Fiction'
+- !lcsh 'Netherlands -- History -- 1648-1714 -- Fiction'
+title: La Tulipe Noire
+url: http://www.gutenberg.org/ebooks/1910
